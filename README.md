@@ -11,3 +11,5 @@ When you press 'R' it will random generate the hex color .
 this page is generated from the refenece of the https://www.color-hex.com/
 
 
+histroy is stored in the browser itself:
+![image](https://user-images.githubusercontent.com/60768713/169639834-c49ff14d-59bf-427d-9aa3-578b171add3e.png)
